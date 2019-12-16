@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MultiShot App",
+  "short_name": "MultiShot App",
+  "version": "io.cordova.hellocordova",
+  "description": "An application which takes synchronized pictures on all devices on the network with the app installed",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
